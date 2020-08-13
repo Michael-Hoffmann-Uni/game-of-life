@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b320acce-b671-48fe-b63e-83d7168da521" name="Default Changelist" comment="finally" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVSzi0ol4rX1TWbRIOvQ5PIq4F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jpp.gol.ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GameOfLife">
+    <configuration name="GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.gol.console.GameOfLife" />
+      <module name="game of life" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.gol.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameOfLifeGUI" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.gol.ui.GameOfLife" />
+      <module name="game of life" />
+      <option name="VM_PARAMETERS" value="--module-path C:\javafx-sdk-14.0.2.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.gol.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTest.MyTest" />
+      <module name="game of life" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameOfLifeGUI" />
+      <item itemvalue="Application.GameOfLife" />
+      <item itemvalue="Application.MyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameOfLife" />
+        <item itemvalue="Application.GameOfLifeGUI" />
+        <item itemvalue="Application.MyTest" />
+        <item itemvalue="Application.GameOfLife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Program Files\SlikSvn\bin\svn.exe</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b320acce-b671-48fe-b63e-83d7168da521" name="Default Changelist" comment="" />
+      <created>1586819531891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586819531891</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1586819924792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586819924792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="All but console and gui">
+      <created>1586820190487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586820190487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed NullPonterE to IOE and removed pattern test with regex">
+      <created>1586820415480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586820415480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Trying to find problem with local debugs, maybe found">
+      <created>1586821244414</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586821244414</updated>
+    </task>
+    <task id="LOCAL-00005" summary="return new World(0, 0);">
+      <created>1586822357564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586822357564</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some fixes">
+      <created>1586823193945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586823193945</updated>
+    </task>
+    <task id="LOCAL-00007" summary="some fixes">
+      <created>1586824049201</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586824049201</updated>
+    </task>
+    <task id="LOCAL-00008" summary="some fixes">
+      <created>1586824867696</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586824867696</updated>
+    </task>
+    <task id="LOCAL-00009" summary="moved \n in world.toString">
+      <created>1586856102379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586856102379</updated>
+    </task>
+    <task id="LOCAL-00010" summary="no x or nothing after x">
+      <created>1586856662462</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586856662462</updated>
+    </task>
+    <task id="LOCAL-00011" summary="no regex">
+      <created>1586856878955</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586856878955</updated>
+    </task>
+    <task id="LOCAL-00012" summary="contentString check">
+      <created>1586857063370</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586857063370</updated>
+    </task>
+    <task id="LOCAL-00013" summary="no try catch">
+      <created>1586857261372</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586857261372</updated>
+    </task>
+    <task id="LOCAL-00014" summary="replaced lines.length and lines[i].length with height and width">
+      <created>1586857566301</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586857566301</updated>
+    </task>
+    <task id="LOCAL-00015" summary="complete overhaul of load">
+      <created>1586866229297</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1586866229297</updated>
+    </task>
+    <task id="LOCAL-00016" summary="forgot one IOE and i+1 for height">
+      <created>1586866532779</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1586866532779</updated>
+    </task>
+    <task id="LOCAL-00017" summary="save had \r\n.&#10;Replaced it with \n">
+      <created>1586866728759</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1586866728760</updated>
+    </task>
+    <task id="LOCAL-00018" summary=".add in ObservableGameLogicDecorator">
+      <created>1586868445386</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1586868445386</updated>
+    </task>
+    <task id="LOCAL-00019" summary="just save">
+      <created>1586880518674</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1586880518674</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Console test">
+      <created>1586884911329</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1586884911329</updated>
+    </task>
+    <task id="LOCAL-00021" summary="just save">
+      <created>1586885788855</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1586885788855</updated>
+    </task>
+    <task id="LOCAL-00022" summary="just save">
+      <created>1586888292062</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1586888292062</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Console update">
+      <created>1586891018127</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1586891018127</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Seems like there is an empty line expected">
+      <created>1586891160034</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1586891160034</updated>
+    </task>
+    <task id="LOCAL-00025" summary="oglDecorator.step()">
+      <created>1586891647850</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1586891647850</updated>
+    </task>
+    <task id="LOCAL-00026" summary="zulaessig.\n">
+      <created>1586891908569</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1586891908569</updated>
+    </task>
+    <task id="LOCAL-00027" summary="getBoard">
+      <created>1586949158653</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1586949158653</updated>
+    </task>
+    <task id="LOCAL-00028" summary="just save">
+      <created>1586964069785</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1586964069785</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Platform.runLater">
+      <created>1587052906285</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1587052906285</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added speed in ObservableGameLogicDecorator:&#10;still pabs green?">
+      <created>1587056177434</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1587056177435</updated>
+    </task>
+    <task id="LOCAL-00031" summary="nice :)">
+      <created>1587057935203</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1587057935203</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Done?!">
+      <created>1587066925216</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1587066925216</updated>
+    </task>
+    <task id="LOCAL-00033" summary="StandardGameLogic: step()&#10;switched width and height in loops&#10;i&lt;height instead of i&lt;width">
+      <created>1587069951820</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1587069951820</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trying to find problem with local debugs, maybe found" />
+    <MESSAGE value="return new World(0, 0);" />
+    <MESSAGE value="some fixes" />
+    <MESSAGE value="moved \n in world.toString" />
+    <MESSAGE value="no x or nothing after x" />
+    <MESSAGE value="no regex" />
+    <MESSAGE value="contentString check" />
+    <MESSAGE value="no try catch" />
+    <MESSAGE value="replaced lines.length and lines[i].length with height and width" />
+    <MESSAGE value="complete overhaul of load" />
+    <MESSAGE value="forgot one IOE and i+1 for height" />
+    <MESSAGE value="save had \r\n.&#10;Replaced it with \n" />
+    <MESSAGE value=".add in ObservableGameLogicDecorator" />
+    <MESSAGE value="Console test" />
+    <MESSAGE value="Console update" />
+    <MESSAGE value="Seems like there is an empty line expected" />
+    <MESSAGE value="oglDecorator.step()" />
+    <MESSAGE value="zulaessig.\n" />
+    <MESSAGE value="getBoard" />
+    <MESSAGE value="just save" />
+    <MESSAGE value="Platform.runLater" />
+    <MESSAGE value="added speed in ObservableGameLogicDecorator:&#10;still pabs green?" />
+    <MESSAGE value="nice :)" />
+    <MESSAGE value="Done?!" />
+    <MESSAGE value="StandardGameLogic: step()&#10;switched width and height in loops&#10;i&lt;height instead of i&lt;width" />
+    <option name="LAST_COMMIT_MESSAGE" value="StandardGameLogic: step()&#10;switched width and height in loops&#10;i&lt;height instead of i&lt;width" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597305716351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.-126.1600.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1597305716351" />
+    <state x="666" y="261" key="FileChooserDialogImpl" timestamp="1597305569927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="261" key="FileChooserDialogImpl/-1600.-126.1600.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1597305569927" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597308102395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1600.-126.1600.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1597308102395" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597308102395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1600.-126.1600.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1597308102395" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597308102395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1600.-126.1600.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1597308102395" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597308102395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1600.-126.1600.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1597308102395" />
+    <state x="601" y="67" key="SettingsEditor" timestamp="1597308240016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="67" key="SettingsEditor/-1600.-126.1600.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1597308240016" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/gol/io/StandardWorldLoader.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myTest/MyTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/gol/console/GameOfLife.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/gol/console/GameOfLife.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/gol/console/GameOfLife.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myTest/MyTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/gol/ui/GameOfLife.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/gol/logic/StandardGameLogic.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
